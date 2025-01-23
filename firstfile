@@ -1,2 +1,16 @@
 Console.ReadLine("Muhammad Huzaifa");
 Console.ReasdLine("24-ST-007");
+Console.ReadLine("English");
+Console.ReadLine("Urdu");
+Console.ReadLine("Maths");
+Console.ReadLine("Computer");
+Console.ReadLine("Physics");
+Console.ReadLine("CP");
+Console.ReadLine("ITS");
+Console.ReadLine("CAL");
+Console.ReadLine("ISL");
+Console.ReadLine("Applied Physics");
+Console.ReadLine("English");
+Console.ReadLine("SDLC");
+Console.ReadLine("Discrete");
+Console.ReadLine("SC");
