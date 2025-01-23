@@ -5,3 +5,8 @@ Console.ReadLine("Urdu");
 Console.ReadLine("Maths");
 Console.ReadLine("Computer");
 Console.ReadLine("Physics");
+Console.ReadLine("CP");
+Console.ReadLine("ITS");
+Console.ReadLine("CAL");
+Console.ReadLine("ISL");
+Console.ReadLine("Applied Physics");
